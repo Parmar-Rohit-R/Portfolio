@@ -1,0 +1,5 @@
+D:\ROHIT\Sem-6\Protfolio\Protfolio\bin\Protfolio.dll
+D:\ROHIT\Sem-6\Protfolio\Protfolio\bin\Protfolio.pdb
+D:\ROHIT\Sem-6\Protfolio\Protfolio\obj\Debug\Protfolio.csprojResolveAssemblyReference.cache
+D:\ROHIT\Sem-6\Protfolio\Protfolio\obj\Debug\Protfolio.dll
+D:\ROHIT\Sem-6\Protfolio\Protfolio\obj\Debug\Protfolio.pdb
